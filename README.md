@@ -1,2 +1,2 @@
 # DocuEditor
-A simple file editing python app
+A simple file editing python application
